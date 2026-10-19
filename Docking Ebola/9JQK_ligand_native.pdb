@@ -1,0 +1,56 @@
+CRYST1   46.177   54.042   83.265  72.88  85.96  71.78 P 1           4
+HETATM    1  C1  A1ECD 302     -44.681 -19.939   1.076  1.00 97.63      F    C  
+HETATM    2  O1  A1ECD 302     -45.442 -18.990   1.287  1.00109.47      F    O  
+HETATM    3  C2  A1ECD 302     -43.261 -19.633   0.618  1.00 70.37      F    C  
+HETATM    4  O2  A1ECD 302     -42.489 -21.776   1.438  1.00 87.51      F    O  
+HETATM    5  C3  A1ECD 302     -42.921 -18.377   0.039  1.00 59.37      F    C  
+HETATM    6  O3  A1ECD 302     -45.013 -21.137   1.177  1.00120.57      F    O1-
+HETATM    7  C4  A1ECD 302     -41.602 -18.160  -0.353  1.00 70.41      F    C  
+HETATM    8  C5  A1ECD 302     -40.619 -19.109  -0.145  1.00 76.97      F    C  
+HETATM    9  C6  A1ECD 302     -40.930 -20.312   0.443  1.00 59.68      F    C  
+HETATM   10  C7  A1ECD 302     -42.238 -20.581   0.834  1.00 65.41      F    C  
+HETATM   11  C8  A1ECD 302     -43.946 -17.298  -0.272  1.00 59.33      F    C  
+HETATM   12  C9  A1ECD 302     -44.551 -17.408  -1.672  1.00 51.46      F    C  
+HETATM   13  C10 A1ECD 302     -46.062 -17.626  -1.701  1.00 63.83      F    C  
+HETATM   14  C11 A1ECD 302     -46.888 -16.610  -0.902  1.00 65.10      F    C  
+HETATM   15  C12 A1ECD 302     -46.446 -15.155  -1.051  1.00 67.78      F    C  
+HETATM   16  C13 A1ECD 302     -47.136 -14.402  -2.163  1.00 53.12      F    C  
+HETATM   17  C14 A1ECD 302     -47.026 -15.061  -3.523  1.00 63.46      F    C  
+HETATM   18  C15 A1ECD 302     -47.318 -14.137  -4.705  1.00 63.98      F    C  
+HETATM   19  C16 A1ECD 302     -48.512 -13.226  -4.520  1.00 64.39      F    C  
+HETATM   20  C17 A1ECD 302     -49.752 -13.934  -4.056  1.00 64.02      F    C  
+HETATM   21  C18 A1ECD 302     -50.977 -13.451  -4.068  1.00 80.81      F    C  
+HETATM   22  C19 A1ECD 302     -51.425 -12.150  -4.674  1.00 81.56      F    C  
+HETATM   23  C20 A1ECD 302     -50.734 -10.928  -4.106  1.00 91.92      F    C  
+HETATM   24  C21 A1ECD 302     -50.639 -10.893  -2.582  1.00 89.16      F    C  
+HETATM   25  C22 A1ECD 302     -49.609  -9.917  -2.044  1.00 84.24      F    C  
+HETATM   26  C23 A1ECD 302     -50.124  -8.518  -1.804  1.00 84.64      F    C  
+HETATM   27  C24 A1ECD 302     -49.348  -7.761  -0.750  1.00 78.47      F    C  
+CONECT    1    2    3    6
+CONECT    2    1
+CONECT    3    1    5   10
+CONECT    4   10
+CONECT    5    3    7   11
+CONECT    6    1
+CONECT    7    5    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    3    4    9
+CONECT   11    5   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26
+END

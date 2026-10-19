@@ -1,0 +1,9 @@
+receptor = protein_prep.pdbqt
+ligand = 9JQK_ligand.pdbqt
+center_x = -44.999
+center_y = -14.919
+center_z = -3.396
+size_x = 15.0
+size_y = 15.75
+size_z = 15.0
+out = 9JQK_ligand_out.pdbqt
